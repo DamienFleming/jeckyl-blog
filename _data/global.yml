@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Rich Hildred'
+title: 'Damien Fleming'
 description: 'My Portfolio Site'
-url: 'https://rhildred.github.io' # the base hostname & protocol for your site
-footer_text: '&copy; Rich Hildred'
+url: 'https://damienfleming.github.io/jeckyl-blog' # the base hostname & protocol for your site
+footer_text: '&copy; Damien Fleming'
 
 # Admin Settings
-admin_name: 'Rich Hildred'
-admin_email: 'rhildred@conestogac.on.ca'
+admin_name: 'Damien Fleming'
+admin_email: 'dfleming4669@conestogac.on.ca'
 
