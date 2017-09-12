@@ -11,4 +11,4 @@ lead_text: 'Chad Sparkes - Gotta Love Florida Sunrises'
 Happy September
 ========
 
-Welcome back to school
+Welcome back to school!!
