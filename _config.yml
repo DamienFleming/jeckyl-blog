@@ -68,8 +68,4 @@ kramdown:
     coderay_bold_every:        10
     coderay_css:               style
 
-# URLS
-  baseurl: "/jeckyl-blog"
-  production_url : http://damienfleming.github.io.com/jeckyl-blog
-
 include: ['_pages']
