@@ -8,7 +8,7 @@ featured_image: 'https://farm9.staticflickr.com/8210/29360401550_b82363570f_k_d.
 lead_text: 'Chad Sparkes - Gotta Love Florida Sunrises'
 ---
 
-Happy September
+Happy September!
 ========
 
 Welcome back to school!!
